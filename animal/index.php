@@ -1,6 +1,6 @@
 <html>
 <head>
-<title></title>
+<title>ANIMAL</title>
 </head>
 <body>
 <h1>Сегодня:</h1>
